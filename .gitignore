@@ -1,0 +1,12 @@
+# Ignore environment/config secrets
+.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# System files
+.DS_Store
+
+# Virtual environment (if used locally)
+venv/
